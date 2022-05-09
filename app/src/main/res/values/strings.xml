@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabbedCart</string>
+    <string name="tab_text_1">Battery Charge</string>
+    <string name="tab_text_2">Fridge Temp</string>
+    <string name="tab_text_3">Solar Panel Voltage</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
